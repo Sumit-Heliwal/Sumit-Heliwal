@@ -3,7 +3,7 @@
 - 🌱 I’m currently persuing BE
 - 💞️ I’m looking to collaborate on projects on Java or Python or any WebAPP
 - 📫 Reach me at heliwalsumit@gmail.com
-- Contribute to me directly @ https://paypal.me/SumitHeliwalIN
+- Contribute to me directly @ https://paypal.me/SumitHeliwalIN or https://www.buymeacoffee.com/SumitHeliwal
 
 <!---
 Sumit-Heliwal/Sumit-Heliwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
