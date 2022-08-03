@@ -2,7 +2,7 @@
 - 👀 I’m interested in Devlopment of programs.
 - 🌱 I’m currently persuing BE
 - 💞️ I’m looking to collaborate on projects on Java or Python or any WebAPP
-- 📫 Reach me at heliwalsumit@gmail.com
+- 📫 Reach me at https://www.linkedin.com/in/sumitheliwal/
 - Contribute to me directly @ https://paypal.me/SumitHeliwalIN or https://www.buymeacoffee.com/SumitHeliwal
 
 <!---
